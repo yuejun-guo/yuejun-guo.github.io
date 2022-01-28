@@ -1,0 +1,17 @@
+title: 'Yuejun Guo'
+email: yuejun.guo at uni.lu
+tagline: 'Postdoctoral Researcher <br/> University of Luxembourg'
+description: SerVal - uni.lu
+address: 'Office: E 008, Campus Kirchberg, Université du Luxembourg <br/> 6, rue Richard Coudenhove-Kalergi L-1359 Luxembourg'
+quote: '"In theory, theory and practice are the same. In practice, they are not.” - Albert Einstein'
+url: "http://yuejunguo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+
+exclude:
+   - Gemfile
+   - Gemfile.lock
