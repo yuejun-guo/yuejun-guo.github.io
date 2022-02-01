@@ -22,7 +22,7 @@ In my research, I look for real challenging problems and build solutions backed 
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Previous Projects</h4>
 
-* **LLCEscapeGame:** 
+* **LLCEscapeGame:** [Link] (https://github.com/yamizi/LLCEscapeGame/tree/game_age)
 
 * **Scalable method to contruct compact road network from GPS data:** Generated and published two [data sets](https://figshare.com/articles/software/A-scalable_method-to-construct-compact-road-networks-from-GPS-trajectories_zip/12199541).
 
